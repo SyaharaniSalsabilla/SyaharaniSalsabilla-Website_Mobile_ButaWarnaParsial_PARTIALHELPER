@@ -65,4 +65,3 @@ Resolve the errors and warnings that are shown in the application.
   https://pub.dev/packages/cached_network_image
 
 # SyaharaniSalsabilla-Website_Mobile_ButaWarnaParsial_PARTIALHELPER
->>>>>>> 4ffc2f163252cdd9dfdd2703001ff6ee1c395a18
